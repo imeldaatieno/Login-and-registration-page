@@ -68,7 +68,7 @@ void login()
 	{
 		if (id == userId && pass == password)
 		{
-			count = 0;
+			count = 1;
 				system("cls");
 
 		}
